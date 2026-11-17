@@ -1,0 +1,10 @@
+
+{
+  "name": "P.O. Music",
+  "short_name": "P.O. Music",
+  "description": "Independent music, albums, ringtones and exclusive releases.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111"
+}
